@@ -7,6 +7,7 @@ public class CuentaBancaria {
 
     public void mostrarInformacion() {
 
+        System.out.println("Jorge empezó a colaborar aquí")
         System.out.println("Nombre: JESUS ABRIL con cuenta " + numeroCuenta);
         System.out.println("Número de cuenta: " + numeroCuenta);
         System.out.println("Titular: " + titular);
